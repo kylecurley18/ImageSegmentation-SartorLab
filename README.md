@@ -1,1 +1,1 @@
-# kpcurley-ImageSeg-SartorLab
+# ImageSegmentation-SartorLab
