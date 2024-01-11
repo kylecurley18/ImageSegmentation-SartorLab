@@ -1,0 +1,12 @@
+names:
+- Lemna-Gibba
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: duckweed-segmentation-2
+  url: https://universe.roboflow.com/sartor-lab/duckweed-segmentation-2/dataset/3
+  version: 3
+  workspace: sartor-lab
+test: ../test/images
+train: Duckweed-Segmentation-2-3/train/images
+val: Duckweed-Segmentation-2-3/valid/images
