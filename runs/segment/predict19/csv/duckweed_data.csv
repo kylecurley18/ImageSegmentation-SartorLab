@@ -1,0 +1,22 @@
+image path,timestamp,camera,sample,area,barcode
+/home/liftlab/ImageSegmentation/test/capture-3-2023_12_01_08:44:43.jpg,2023_12_01_08:44:43,3,0,8424,N/A
+/home/liftlab/ImageSegmentation/test/capture-3-2023_12_01_08:44:43.jpg,2023_12_01_08:44:43,3,1,8721,N/A
+/home/liftlab/ImageSegmentation/test/capture-3-2023_12_01_08:44:43.jpg,2023_12_01_08:44:43,3,2,7233,N/A
+/home/liftlab/ImageSegmentation/test/capture-6-2023_11_28_12:59:34.jpg,2023_11_28_12:59:34,6,0,7854,N/A
+/home/liftlab/ImageSegmentation/test/capture-6-2023_11_28_12:59:34.jpg,2023_11_28_12:59:34,6,1,10188,N/A
+/home/liftlab/ImageSegmentation/test/capture-6-2023_11_28_12:59:34.jpg,2023_11_28_12:59:34,6,2,8415,N/A
+/home/liftlab/ImageSegmentation/test/capture-7-2023_11_30_08:17:41.jpg,2023_11_30_08:17:41,7,0,7638,N/A
+/home/liftlab/ImageSegmentation/test/capture-7-2023_11_30_08:17:41.jpg,2023_11_30_08:17:41,7,1,8940,N/A
+/home/liftlab/ImageSegmentation/test/capture-7-2023_11_30_08:17:41.jpg,2023_11_30_08:17:41,7,2,8628,N/A
+/home/liftlab/ImageSegmentation/test/capture-4-2023_12_01_08:44:44.jpg,2023_12_01_08:44:44,4,0,N/A,001LC
+/home/liftlab/ImageSegmentation/test/capture-4-2023_12_01_08:44:44.jpg,2023_12_01_08:44:44,4,1,N/A,001LD
+/home/liftlab/ImageSegmentation/test/capture-4-2023_12_01_08:44:44.jpg,2023_12_01_08:44:44,4,2,N/A,001N8
+/home/liftlab/ImageSegmentation/test/capture-8-2023_11_30_08:17:42.jpg,2023_11_30_08:17:42,8,0,N/A,001S6
+/home/liftlab/ImageSegmentation/test/capture-8-2023_11_30_08:17:42.jpg,2023_11_30_08:17:42,8,1,N/A,001F8
+/home/liftlab/ImageSegmentation/test/capture-8-2023_11_30_08:17:42.jpg,2023_11_30_08:17:42,8,2,N/A,001S9
+/home/liftlab/ImageSegmentation/test/capture-5-2023_11_28_12:59:33.jpg,2023_11_28_12:59:33,5,0,N/A,001DQ
+/home/liftlab/ImageSegmentation/test/capture-5-2023_11_28_12:59:33.jpg,2023_11_28_12:59:33,5,1,N/A,001O4
+/home/liftlab/ImageSegmentation/test/capture-5-2023_11_28_12:59:33.jpg,2023_11_28_12:59:33,5,2,N/A,001OA
+/home/liftlab/ImageSegmentation/test/capture-8-2023_11_30_08:37:42.jpg,2023_11_30_08:37:42,8,0,N/A,Undetected
+/home/liftlab/ImageSegmentation/test/capture-8-2023_11_30_08:37:42.jpg,2023_11_30_08:37:42,8,1,N/A,001E3
+/home/liftlab/ImageSegmentation/test/capture-8-2023_11_30_08:37:42.jpg,2023_11_30_08:37:42,8,2,N/A,001MN

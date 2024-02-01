@@ -1,0 +1,10 @@
+image path,timestamp,camera,sample,area,barcode
+/home/liftlab/ImageSegmentation/test/capture-3-2023_12_01_08:44:43.jpg,2023_12_01_08:44:43,3,0,8424.0,nan
+/home/liftlab/ImageSegmentation/test/capture-3-2023_12_01_08:44:43.jpg,2023_12_01_08:44:43,3,1,8721.0,nan
+/home/liftlab/ImageSegmentation/test/capture-3-2023_12_01_08:44:43.jpg,2023_12_01_08:44:43,3,2,7233.0,nan
+/home/liftlab/ImageSegmentation/test/capture-6-2023_11_28_12:59:34.jpg,2023_11_28_12:59:34,6,0,7854.0,nan
+/home/liftlab/ImageSegmentation/test/capture-6-2023_11_28_12:59:34.jpg,2023_11_28_12:59:34,6,1,10188.0,nan
+/home/liftlab/ImageSegmentation/test/capture-6-2023_11_28_12:59:34.jpg,2023_11_28_12:59:34,6,2,8415.0,nan
+/home/liftlab/ImageSegmentation/test/capture-7-2023_11_30_08:17:41.jpg,2023_11_30_08:17:41,7,0,7638.0,nan
+/home/liftlab/ImageSegmentation/test/capture-7-2023_11_30_08:17:41.jpg,2023_11_30_08:17:41,7,1,8940.0,nan
+/home/liftlab/ImageSegmentation/test/capture-7-2023_11_30_08:17:41.jpg,2023_11_30_08:17:41,7,2,8628.0,nan
